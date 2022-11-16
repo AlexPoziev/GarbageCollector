@@ -28,7 +28,7 @@ typedef struct
 {
     Object *stack[MAX_STACK_SIZE];
     int stackSize;
-}vm;
+} vm;
 
 void push(vm *vm, Object *value)
 {
