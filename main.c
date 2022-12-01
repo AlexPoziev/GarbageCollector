@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
-#define MAX_STACK_SIZE 256
+ MAX_STACK_SIZE 256
 
 typedef enum
 {
